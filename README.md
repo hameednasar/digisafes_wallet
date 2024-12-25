@@ -26,7 +26,7 @@ Ensure you have the following installed:
 •	Android Studio or Visual Studio Code for development.
 Installation
 1.	Clone the repository: 
-2.	git clone https://github.com/hameednasar
+2.	git clone https://github.com/hameednasar/digisafes_wallet?tab=readme-ov-file
 3.	Navigate to the project directory: 
 4.	cd digisafes
 5.	Install dependencies: 
